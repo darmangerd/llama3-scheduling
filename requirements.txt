@@ -1,0 +1,13 @@
+transformers
+accelerate
+bitsandbytes
+pyDOE3
+datasets
+torch
+jinja2
+torchmetrics
+tqdm
+jupyter
+pretty-jupyter
+researchpy
+seaborn
