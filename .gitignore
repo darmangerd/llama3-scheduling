@@ -1,5 +1,5 @@
 # Use defined gitignore
-
+.DS_Store
 
 # Created by https://www.toptal.com/developers/gitignore/api/jupyternotebooks,jetbrains+all,vim,venv
 # Edit at https://www.toptal.com/developers/gitignore?templates=jupyternotebooks,jetbrains+all,vim,venv
